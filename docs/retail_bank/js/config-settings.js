@@ -317,7 +317,7 @@ window.settings = {
       accountpicker: [
         {
           img: "img/account-picker1.jpg",
-          title: "U+ Rewards Card",
+          title: "Rewards Card",
           showbillpay: true,
           details: [
             {
@@ -341,7 +341,7 @@ window.settings = {
             }]
         },
         {
-          title: "Free Student Checking",
+          title: "Free Student Account",
           details: [
             {
               label: "Account number",
@@ -437,7 +437,7 @@ window.settings = {
       accountpicker: [
         {
           img: "account-picker1.png",
-          title: "U+ Rewards Card",
+          title: "Rewards Card",
           details: [
             {
               label: "Account balance",
@@ -457,7 +457,7 @@ window.settings = {
         },
         {
           img: "account-picker1.png",
-          title: "Free Student Checking",
+          title: "Free Student Account",
           details: [
             {
               label: "Account number",
