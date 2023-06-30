@@ -11,7 +11,7 @@
         <img
           v-on:click="goHomePage"
           class="logo"
-          :src="'./img/u+-logo.svg'"
+          :src="'./img/merkle-bank.png'"
           alt="U+"
         />
       </a>
