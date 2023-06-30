@@ -259,7 +259,7 @@ window.dateFormatEN = {
 window.numberFormatEN = {
   currency: {
     style: "currency",
-    currency: "USD",
+    currency: "GBP",
     currencyDisplay: "symbol",
   },
   score: {
