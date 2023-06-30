@@ -38,7 +38,7 @@ window.settings = {
       smsSettings: {
         from: "Pega",
         account: "Default",
-        message: "Uplus OTP login code",
+        message: "OTP login code",
         validateMaxAge: "false",
       },
     },
@@ -317,7 +317,7 @@ window.settings = {
       accountpicker: [
         {
           img: "img/account-picker1.jpg",
-          title: "U+ Rewards Card",
+          title: "Rewards Card",
           showbillpay: true,
           details: [
             {
@@ -436,8 +436,8 @@ window.settings = {
       ],
       accountpicker: [
         {
-          img: "account-picker1.png",
-          title: "U+ Rewards Card",
+          img: "account-picker1.jpg",
+          title: "Rewards Card",
           details: [
             {
               label: "Account balance",
@@ -456,7 +456,7 @@ window.settings = {
             }]
         },
         {
-          img: "account-picker1.png",
+          img: "account-picker1.jpg",
           title: "Free Student Checking",
           details: [
             {
@@ -470,7 +470,7 @@ window.settings = {
             }]
         },
         {
-          img: "account-picker1.png",
+          img: "account-picker1.jpg",
           title: "Simply Saving",
           details: [
             {
