@@ -436,7 +436,7 @@ window.settings = {
       ],
       accountpicker: [
         {
-          img: "account-picker1.jpg",
+          img: "img/account-picker1.jpg",
           title: "Rewards Card",
           details: [
             {
@@ -456,7 +456,7 @@ window.settings = {
             }]
         },
         {
-          img: "account-picker1.jpg",
+          img: "img/account-picker1.jpg",
           title: "Free Student Checking",
           details: [
             {
@@ -470,7 +470,7 @@ window.settings = {
             }]
         },
         {
-          img: "account-picker1.jpg",
+          img: "img/account-picker1.jpg",
           title: "Simply Saving",
           details: [
             {
