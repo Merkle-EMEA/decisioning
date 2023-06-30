@@ -48,7 +48,7 @@ window.langEN = {
   off: "Off",
   on: "On",
   banner_icon: "pi-warn-solid",
-  banner_title: "Uplus Assistance",
+  banner_title: "Merkle Assistance",
   banner_desc: "Need assistance? Start here to request assistance",
   banner_action: "Request assistance",
   autopay_enroll: "Enroll in CardProtect",
@@ -99,7 +99,7 @@ window.langEN = {
   offer_main_offer4_button_label: "Learn more",
   offer_details1_title: "We believe banking shouldn’t cost you money",
   offer_details1_msg:
-    "UPlus Bank is rated #1 because we are committed to growing your savings, not ours.",
+    "Merkle Bank is rated #1 because we are committed to growing your savings, not ours.",
   offer_highlights_data1_title: "Low Account Minimum",
   offer_highlights_data1_msg:
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
@@ -129,7 +129,7 @@ window.langEN = {
   offer1_main_offer4_button_label: "Learn more",
   offer1_details1_title: "We believe banking shouldn’t cost you money",
   offer1_details1_msg:
-    "UPlus Bank is rated #1 because we are committed to growing your savings, not ours.",
+    "Merkle Bank is rated #1 because we are committed to growing your savings, not ours.",
   offer1_highlights_data1_title: "Low Account Minimum",
   offer1_highlights_data1_msg:
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
@@ -156,7 +156,7 @@ window.langEN = {
   offer2_main_offer3_button_label: "Learn more",
   offer2_details1_title: "We believe banking shouldn’t cost you money",
   offer2_details1_msg:
-    "UPlus Bank is rated #1 because we are committed to growing your savings, not ours.",
+    "Merkle Bank is rated #1 because we are committed to growing your savings, not ours.",
   offer2_highlights_data1_title: "Low Account Minimum",
   offer2_highlights_data1_msg:
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
@@ -186,7 +186,7 @@ window.langEN = {
   offer3_main_offer4_button_label: "Learn more",
   offer3_details1_title: "We believe banking shouldn’t cost you money",
   offer3_details1_msg:
-    "UPlus Bank is rated #1 because we are committed to growing your savings, not ours.",
+    "Merkle Bank is rated #1 because we are committed to growing your savings, not ours.",
   offer3_highlights_data1_title: "Low Account Minimum",
   offer3_highlights_data1_msg:
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
@@ -216,7 +216,7 @@ window.langEN = {
   offer4_main_offer4_button_label: "Learn more",
   offer4_details1_title: "We believe banking shouldn’t cost you money",
   offer4_details1_msg:
-    "UPlus Bank is rated #1 because we are committed to growing your savings, not ours.",
+    "Merkle Bank is rated #1 because we are committed to growing your savings, not ours.",
   offer4_highlights_data1_title: "Low Account Minimum",
   offer4_highlights_data1_msg:
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
