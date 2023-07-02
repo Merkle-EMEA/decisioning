@@ -105,7 +105,7 @@ window.langEN = {
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer_highlights_data2_title: "Cash Back",
   offer_highlights_data2_msg:
-    "Earn 1.60% APY on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% AER.  ",
+    "Earn 1.60% AER on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% AER.  ",
   offer_highlights_data3_title: "Pricing",
   offer_highlights_data3_msg:
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
@@ -135,13 +135,13 @@ window.langEN = {
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer1_highlights_data2_title: "Cash Back",
   offer1_highlights_data2_msg:
-    "Earn 1.60% APY on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% APY.  ",
+    "Earn 1.60% AER on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% AER.  ",
   offer1_highlights_data3_title: "Pricing",
   offer1_highlights_data3_msg:
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
-  offer2_header_title: "Merkle Rewards Credit Card",
+  offer2_header_title: "Merkle Bank Credit Cards",
   offer2_header_msg:
-    "The Rewards Card can reward you at every stage of the journey. Earn Rewards Points on travel purchases. Enjoy benefits on your way to the airport, while you relax in an airport Lounge before your flight, and once you arrive at your hotel.",
+    "Whatever your needs, we've got a credit card to suit you. From basic cards to build your credit score, to rewards cards for higher spenders. All at competitive interest rates.",
   offer2_hero_title:'Boost Your Savings with our Exclusive Limited-Time Offer!',
   offer2_hero__msg:"Open a new savings account with us and enjoy a high interest rate of 2.5% for the first 6 months. Start growing your savings today!",
   offer2_hero_button_label:'Get started',
@@ -162,7 +162,7 @@ window.langEN = {
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer2_highlights_data2_title: "Cash Back",
   offer2_highlights_data2_msg:
-    "Earn 1.60% APY on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% APY.  ",
+    "Earn 1.60% AER on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% AER.  ",
   offer2_highlights_data3_title: "Pricing",
   offer2_highlights_data3_msg:
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
@@ -192,7 +192,7 @@ window.langEN = {
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer3_highlights_data2_title: "Cash Back",
   offer3_highlights_data2_msg:
-    "Earn 1.60% APY on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% APY.  ",
+    "Earn 1.60% AER on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% AER.  ",
   offer3_highlights_data3_title: "Pricing",
   offer3_highlights_data3_msg:
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
@@ -222,7 +222,7 @@ window.langEN = {
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer4_highlights_data2_title: "Cash Back",
   offer4_highlights_data2_msg:
-    "Earn 1.60% APY on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% APY.  ",
+    "Earn 1.60% AER on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% AER.  ",
   offer4_highlights_data3_title: "Pricing",
   offer4_highlights_data3_msg:
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
