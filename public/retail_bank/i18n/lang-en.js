@@ -18,7 +18,7 @@ window.langEN = {
   primary3_msg: "We know accessing cash is important when you need it, and don’t believe you should have to pay.",
   primary4_title: "Start saving with Simply Savings",
   primary4_msg: "With our Simply Savings account, you can start saving for the future right now.",
-  menu1: "Checking & Savings",
+  menu1: "Accounts",
   menu2: "Credit cards",
   menu3: "Loans",
   menu4: "Investment",
@@ -102,21 +102,21 @@ window.langEN = {
     "UPlus Bank is rated #1 because we are committed to growing your savings, not ours.",
   offer_highlights_data1_title: "Low Account Minimum",
   offer_highlights_data1_msg:
-    "Minimum of $100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
+    "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer_highlights_data2_title: "Cash Back",
   offer_highlights_data2_msg:
-    "Earn 1.60% APY on balances of $1,000.00 or more.  Balances of less than $1,000.00 will still earn a great everyday rate of 1% APY.  ",
+    "Earn 1.60% AER on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% AER.  ",
   offer_highlights_data3_title: "Pricing",
   offer_highlights_data3_msg:
-    "Minimum of $100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
+    "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer1_header_title: "Open a Regular Savings account and Save!",
   offer1_header_msg:
     "Low minimum deposit, Easy access to funds ,Interest compounded daily and credited to your account monthly.Deposits, withdrawals and transfers with your free U+ Gold or ATM Card, No monthly service charges for minors age 17 and under Free Online Banking ,and Free Mobile Banking and Alerts",
   offer1_hero_title:'Boost Your Savings with our Exclusive Limited-Time Offer!',
   offer1_hero__msg:"Open a new savings account with us and enjoy a high interest rate of 2.5% for the first 6 months. Start growing your savings today!",
   offer1_hero_button_label:'Get started',
-  offer1_main_offer1_title: "Get a $200 Bonus for Opening a New Checking Account",
-  offer1_main_offer1_msg: "Open a new checking account with our bank and receive a $200 bonus after completing a few simple requirements, such as setting up direct deposit and making a certain number of transactions.",
+  offer1_main_offer1_title: "Get a £200 Bonus for Opening a New Checking Account",
+  offer1_main_offer1_msg: "Open a new checking account with our bank and receive a £200 bonus after completing a few simple requirements, such as setting up direct deposit and making a certain number of transactions.",
   offer1_main_offer1_button_label: "Learn more",
   offer1_main_offer2_title: "High-Yield Savings Account with No Monthly Fees",
   offer1_main_offer2_msg:"Open a high-yield savings account with our bank and earn a competitive interest rate while enjoying no monthly maintenance fees or minimum balance requirements.",
@@ -132,13 +132,13 @@ window.langEN = {
     "UPlus Bank is rated #1 because we are committed to growing your savings, not ours.",
   offer1_highlights_data1_title: "Low Account Minimum",
   offer1_highlights_data1_msg:
-    "Minimum of $100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
+    "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer1_highlights_data2_title: "Cash Back",
   offer1_highlights_data2_msg:
-    "Earn 1.60% APY on balances of $1,000.00 or more.  Balances of less than $1,000.00 will still earn a great everyday rate of 1% APY.  ",
+    "Earn 1.60% AER on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% AER.  ",
   offer1_highlights_data3_title: "Pricing",
   offer1_highlights_data3_msg:
-    "Minimum of $100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
+    "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer2_header_title: "U+ Rewards Credit Card",
   offer2_header_msg:
     "The Rewards Card can reward you at every stage of the journey. Earn Rewards Points on travel purchases. Enjoy benefits on your way to the airport, while you relax in an airport Lounge before your flight, and once you arrive at your hotel.",
@@ -159,13 +159,13 @@ window.langEN = {
     "UPlus Bank is rated #1 because we are committed to growing your savings, not ours.",
   offer2_highlights_data1_title: "Low Account Minimum",
   offer2_highlights_data1_msg:
-    "Minimum of $100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
+    "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer2_highlights_data2_title: "Cash Back",
   offer2_highlights_data2_msg:
-    "Earn 1.60% APY on balances of $1,000.00 or more.  Balances of less than $1,000.00 will still earn a great everyday rate of 1% APY.  ",
+    "Earn 1.60% AER on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% AER.  ",
   offer2_highlights_data3_title: "Pricing",
   offer2_highlights_data3_msg:
-    "Minimum of $100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
+    "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer3_header_title: "Finance your new home today!",
   offer3_header_msg:
     "Lock in low payments, With a fixed-rate loan, you never need to worry about your payment changing, which can help you manage cash flow more easily. And you can take advantage of rates that are still near record lows!",
@@ -189,13 +189,13 @@ window.langEN = {
     "UPlus Bank is rated #1 because we are committed to growing your savings, not ours.",
   offer3_highlights_data1_title: "Low Account Minimum",
   offer3_highlights_data1_msg:
-    "Minimum of $100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
+    "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer3_highlights_data2_title: "Cash Back",
   offer3_highlights_data2_msg:
-    "Earn 1.60% APY on balances of $1,000.00 or more.  Balances of less than $1,000.00 will still earn a great everyday rate of 1% APY.  ",
+    "Earn 1.60% AER on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% AER.  ",
   offer3_highlights_data3_title: "Pricing",
   offer3_highlights_data3_msg:
-    "Minimum of $100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
+    "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer4_header_title: "Making sense of investing!",
   offer4_header_msg:
     "We believe in long-term investing with an emphsis on quality and diversification",
@@ -219,13 +219,13 @@ window.langEN = {
     "UPlus Bank is rated #1 because we are committed to growing your savings, not ours.",
   offer4_highlights_data1_title: "Low Account Minimum",
   offer4_highlights_data1_msg:
-    "Minimum of $100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
+    "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   offer4_highlights_data2_title: "Cash Back",
   offer4_highlights_data2_msg:
-    "Earn 1.60% APY on balances of $1,000.00 or more.  Balances of less than $1,000.00 will still earn a great everyday rate of 1% APY.  ",
+    "Earn 1.60% AER on balances of £1,000.00 or more.  Balances of less than £1,000.00 will still earn a great everyday rate of 1% AER.  ",
   offer4_highlights_data3_title: "Pricing",
   offer4_highlights_data3_msg:
-    "Minimum of $100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
+    "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
   kmhelp: "Help",
   offer_builtin_button_accepted: 'I am interested',
   offer_builtin_button_rejected: 'No thanks',
