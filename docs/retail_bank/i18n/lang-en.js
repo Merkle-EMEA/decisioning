@@ -196,10 +196,10 @@ window.langEN = {
   offer3_highlights_data3_title: "Pricing",
   offer3_highlights_data3_msg:
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
-  offer4_header_title: "Making sense of investing!",
+  offer4_header_title: "Making sense of home ownership!",
   offer4_header_msg:
-    "We believe in long-term investing with an emphsis on quality and diversification",
-  offer4_hero_title:'Boost Your Savings with our Exclusive Limited-Time Offer!',
+    "We believe in open, transparent and flexible mortgages",
+  offer4_hero_title:'Take one our award-winning  products!',
   offer4_hero__msg:"Open a new savings account with us and enjoy a high interest rate of 2.5% for the first 6 months. Start growing your savings today!",
   offer4_hero_button_label:'Get started',
   offer4_main_offer1_title: "Invest in Your Future with a Roth IRA",
