@@ -166,7 +166,7 @@ window.langEN = {
   offer2_highlights_data3_title: "Pricing",
   offer2_highlights_data3_msg:
     "Minimum of £100 to open your account. You can transfer funds with electronic transfer, mail in check, mobile check deposit, or wire. ",
-  offer3_header_title: "Finance your new home today!",
+  offer3_header_title: "Finance your new car today!",
   offer3_header_msg:
     "Lock in low payments, With a fixed-rate loan, you never need to worry about your payment changing, which can help you manage cash flow more easily. And you can take advantage of rates that are still near record lows!",
   offer3_hero_title:'Boost Your Savings with our Exclusive Limited-Time Offer!',
