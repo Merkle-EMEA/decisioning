@@ -178,7 +178,7 @@ window.langEN = {
   offer3_main_offer2_title: "Low Interest Rates for Auto Loans",
   offer3_main_offer2_msg:"Looking to buy a car? Apply for an auto loan with us and enjoy low interest rates, fast approval, and no application fees.",
   offer3_main_offer2_button_label: "Learn more",
-  offer3_main_offer3_title: "Consolidate Your Debt with a Home Equity Loan",
+  offer3_main_offer3_title: "Consolidate Your Debt with a Personal Loan",
   offer3_main_offer3_msg: "Use the equity in your home to consolidate high-interest debt and save money on interest payments. Apply for a home equity loan with us and enjoy competitive rates and flexible repayment terms.",
   offer3_main_offer3_button_label: "Learn more",
   offer3_main_offer4_title: "Small Business Loans for Growing Your Business",
