@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Welcome to the U+ demo website</h2>
+    <h2>Welcome to the Merkle Bank demo website</h2>
     <div class="container-transparent">
       <h3>Step 1</h3>
       <p>
