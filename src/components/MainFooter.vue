@@ -13,7 +13,7 @@
       </nav>
       <LangSwitch v-if="settings.i18n.showLangSwitch" />
       <p class="flex-align-r copyright">
-        {{ '© ' + new Date().getFullYear() + ' ' + $t('message.copyright') }}
+        
       </p>
     </div>
   </footer>
