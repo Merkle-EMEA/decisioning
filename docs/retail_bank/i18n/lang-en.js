@@ -211,7 +211,7 @@ window.langEN = {
   offer4_main_offer3_title: "Consolidate Your Debt with a Home Equity Loan",
   offer4_main_offer3_msg: "Use the equity in your home to consolidate high-interest debt and save money on interest payments. Apply for a home equity loan with us and enjoy competitive rates and flexible repayment terms.",
   offer4_main_offer3_button_label: "Learn more",
-  offer4_main_offer4_title: "Get immediate interest rate cuts with a tracker mortgage.",
+  offer4_main_offer4_title: "Get immediate interest rate cuts with a tracker mortgage",
   offer4_main_offer4_msg: "Get lower repayments as soon as interest rates go down with a tracker mortgage. Apply today and enjoy competitive rates and flexible repayment terms.",
   offer4_main_offer4_button_label: "Learn more",
   offer4_details1_title: "We believe banking shouldn’t cost you money",
