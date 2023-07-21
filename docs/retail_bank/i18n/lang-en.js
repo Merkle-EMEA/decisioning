@@ -32,7 +32,7 @@ window.langEN = {
   reviews: "Reviews",
   privacy: "Privacy",
   termsandconditions: "Terms & Conditions",
-  copyright: "Pegasystems",
+  copyright: "MErkle",
   settings: "Settings",
   username: "Username",
   password: "Password",
