@@ -12,13 +12,13 @@ window.app = {
   },
   primarydetails: [
     {
-      img: "img/offer1.jpg",
+      img: "img/personal-loan.jpg",
       title: "primary1_title",
       message: "primary1_msg",
       link: "learnmore",
     },
     {
-      img: "img/offer2.jpg",
+      img: "img/auto-loan.jpg",
       title: "primary2_title",
       message: "primary2_msg",
       link: "learnmore",
