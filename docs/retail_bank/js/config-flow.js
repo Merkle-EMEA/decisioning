@@ -12,7 +12,7 @@ window.app = {
   },
   primarydetails: [
     {
-      img: "img/offer1.jpg",
+      img: "img/mortgage_default.jpg",
       title: "primary1_title",
       message: "primary1_msg",
       link: "learnmore",
